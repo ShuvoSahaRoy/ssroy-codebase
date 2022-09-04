@@ -1,6 +1,9 @@
-### Hi there 👋, Hi, I am Shuvo Saha Roy
-#### Machine Learning Engineer and Backend Developer
 ![Machine Learning Engineer and Backend Developer](https://github.com/ShuvoSahaRoy/ShuvoSahaRoy/blob/main/ezgif.com-gif-maker.gif?raw=true)
+
+
+###  👋, Hi, I am Shuvo Saha Roy
+#### Machine Learning Engineer and Backend Developer
+
 
 
 Skills: Machine Learing/ Data Analysis/ Python / Django/ Flask
