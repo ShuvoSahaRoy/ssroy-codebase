@@ -2,7 +2,9 @@
 
 
 <p align="center">
-  👋, Hi, I am Shuvo Saha Roy
+  ###👋, Hi, I am Shuvo Saha Roy
+ </p>
+ </hr>
 #### Machine Learning Engineer and Backend Developer
 
 
@@ -20,6 +22,4 @@ Skills: Machine Learing/ Data Analysis/ Python / Django/ Flask
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvoSahaRoy)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuvoSahaRoy&show_icons=true)  
 
-</p>
