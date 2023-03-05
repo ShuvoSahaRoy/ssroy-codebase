@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14NznU-pRkRDri8nAnA9agoAphcoVzJcv/view?usp=share_link](https://drive.google.com/file/d/14NznU-pRkRDri8nAnA9agoAphcoVzJcv/view?usp=share_link)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShuvoSahaRoy&label=Profile%20views&color=0e75b6&style=flat-square" alt="ShuvoSahaRoy" /> </p>
 
 <div align="center">
  
