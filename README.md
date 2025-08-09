@@ -1,4 +1,4 @@
-<img width="852" height="480" alt="image" src="https://github.com/user-attachments/assets/568b692f-4abf-4c41-bf28-a094fff428ce" />![Machine Learning Engineer and Backend Developer](https://github.com/ShuvoSahaRoy/ShuvoSahaRoy/blob/main/ezgif.com-gif-maker.gif?raw=true)
+<img width="852" height="480" alt="image" src="" />![Machine Learning Engineer and Backend Developer](https://github.com/ShuvoSahaRoy/ShuvoSahaRoy/blob/main/ezgif.com-gif-maker.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Shuvo Saha Roy</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Backend Developer</h3>
 
