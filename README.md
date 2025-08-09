@@ -1,4 +1,4 @@
-![Machine Learning Engineer and Backend Developer](https://github.com/ssroy-codebase/ssroy-codebase/blob/main/ezgif.com-gif-maker.gif?raw=true)
+<img width="852" height="480" alt="image" src="https://github.com/user-attachments/assets/568b692f-4abf-4c41-bf28-a094fff428ce" />![Machine Learning Engineer and Backend Developer](https://github.com/ShuvoSahaRoy/ShuvoSahaRoy/blob/main/ezgif.com-gif-maker.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Shuvo Saha Roy</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Backend Developer</h3>
 
@@ -6,21 +6,21 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [github.com/ssroy-codebase](github.com/ssroy-codebase)
+- 👨‍💻 All of my projects are available at [github.com/ShuvoSahaRoy](github.com/ShuvoSahaRoy)
 
 - 📫 Mail me if needed **sshuvo548@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14NznU-pRkRDri8nAnA9agoAphcoVzJcv/view?usp=share_link](https://drive.google.com/file/d/14NznU-pRkRDri8nAnA9agoAphcoVzJcv/view?usp=share_link)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssroy-codebase&label=Profile%20views&color=0e75b6&style=flat-square" alt="ssroy-codebase" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShuvoSahaRoy&label=Profile%20views&color=0e75b6&style=flat-square" alt="ShuvoSahaRoy" /> </p>
 
 <div align="center">
  
  ## Connect with me  
-<a href="https://github.com/ssroy-codebase" target="_blank">
+<a href="https://github.com/ShuvoSahaRoy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/ssroy-codebase" target="_blank">
+<a href="https://linkedin.com/in/ShuvoSahaRoy" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/ssroy548" target="_blank">
@@ -104,10 +104,10 @@
 
 
 ## Github Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=ssroy-codebase&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=ShuvoSahaRoy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssroy-codebase)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvoSahaRoy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
